@@ -1,0 +1,24 @@
+Resume:
+Cumputeren bruger ikke 10 talsystemet til at repræsentere information, den bruger et binære system hvor alle tal har grundtalet 2. 
+Computeren kan dog kun bruge 1 og 0 til at skrive, 
+derfor bruger comuteren det man kalder en byte i den binære system for at hver placering i et byte har en værdi, og 1 eller 0 bestemmer om den værdi er optaget eller uoptaget, altså brugt.
+Hver placering eller "værdi holder" i en byte kaldes for bit.
+Det maksimale værdi en byte kan have er 255 men ved at lægge nul til kan vi have 256 forsklige værdier.
+Så har vi også det man kalder Paritets bit, og det er bare et-talet i en byte altså den aller mindste værdi en byte kan have. 
+Og fordi alle andre værdier i byten er lige og hvis man lægger to lige tal sammen vil man altid får et lige resultat, 
+så fordi et-talet er det eneste der er ulige er det kun den der bestemmer og hele talet er ulige.
+og det størreste værdi i en byte bruge til at bestemme om det byte er positiv eller negativ.
+
+Opgave 1.5 svar:
+Den føste vindue har værdien:1
+Den anden vindue har værdien:2
+Den tredje vindue har værdien:4
+Det fjerde vindue har værdien:8
+----I hvilke vinduer skulle kvinden tænde lys, hvis hyrden skulle komme kl 3
+eller kl 5 eller kl 10?
+
+For kl.3 skal hun sætte lys i den første og anden vindue da 1+2=3
+
+For kl.5 skal hun sætte lys i den første og tredje vindue da 1+4=5
+
+For kl.10 skal hun sætte lys i den anden og fjerde vindue da 2+8=10
